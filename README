@@ -7,7 +7,7 @@ Files: "include", all head files; "src" all source files; "obj" all object files
 
 This work is part of our paper published on IEEE NAS 2015 and later reported by TechRepublic (http://goo.gl/eKYKxk).
 
-```
+```latex
 @inproceedings{qian2015p3,
   title={P3: Priority based proactive prediction for soon-to-fail disks},
   author={Qian, Junjie and Skelton, Stan and Moore, Joseph and Jiang, Hong},
@@ -18,6 +18,6 @@ This work is part of our paper published on IEEE NAS 2015 and later reported by 
 }
 ```
 
-```
+```latex
 Qian, Junjie, Stan Skelton, Joseph Moore, and Hong Jiang. "P3: Priority based proactive prediction for soon-to-fail disks." In Networking, Architecture and Storage (NAS), 2015 IEEE International Conference on, pp. 81-86. IEEE, 2015.
 ```
