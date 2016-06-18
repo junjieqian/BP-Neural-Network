@@ -1,0 +1,9 @@
+TrainDataset: /home/junjie/datasets/bpnn_format/4_day.train
+TestDataset: /home/junjie/datasets/bpnn_format/testfile
+InputNodeNumber: 12
+HideNodeNumber: 6
+OutputNodeNumber: 1
+Iterations: 600
+LearningRate: 0.14
+Threshold: 0.5
+Momentum: 0.15
